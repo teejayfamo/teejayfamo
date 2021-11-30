@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teejayfamo
 - 👀 I’m interested in Backend Engineering and Tehcnical Product Management.
-- 🌱 I’m currently learning Nest JS and BlockChain Technologies.
-- 💞️ I’m looking to collaborate on BlockChain and DeFi Projects soon.
+- 🌱 Planting the seeds for Solutions to Improve Access in Africa.
+- 💞️ I love products and experiences and I bring that to coding.
 - 📫 How to reach me?? Shoot an Email to toluwanifamokunwa@gmail.com
 
 <!---
